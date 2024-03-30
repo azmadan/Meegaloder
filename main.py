@@ -1,4 +1,3 @@
-# import grequests
 import requests
 import os.path
 from tqdm import tqdm
