@@ -3,7 +3,7 @@ import os.path
 from tqdm import tqdm
 import xmltodict, json
 
-tags = ['nipple_fucking','olchas','olexey_oleg']
+tags = ['тег1','тег2','тег3']
 page = 1
 count_page = 0
 list_url =[]
